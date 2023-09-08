@@ -5,7 +5,7 @@ website:
   title: "Erika Austhof"
   navbar:
     left:
-      - href: homa.qmd
+      - href: home.qmd
         text: Home
       - research.qmd
       - teaching.qmd
