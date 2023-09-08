@@ -1,5 +1,7 @@
 ---
-title: "Biography"
+title: "Home"
 ---
+
+# Biography
 
 Erika Austhof, PhD MPH, is an Epidemiologist at the University of Arizona Mel and Enid Zuckerman College of Public Health. She coordinates the epidemiology research projects for faculty members within the Department of Epidemiology & Biostatistics. In this role she conducts advanced data management and analysis, writes and submits reports and manuscripts, coordinates and facilitates stakeholder involvement in projects, trains and manages personnel in the SAFER program, and supports the efforts of new project development and grant writing. She is actively involved in the Climate Assessment for the Southwest (CLIMAS) network and her research interests include climate change and human health impacts.
