@@ -1,3 +1,27 @@
 ---
 title: "Teaching"
 ---
+
+# Teaching Philosophy
+
+In my teaching, I value student learning and engagement through **skills-based learning**. I **center the student experience** in development of my courses and focus my activities on the skills they need to be most successful in the area we are learning about. I value **student autonomy** over their learning experience and goals by dedicating the first day of any course to building a community in the classroom and co-developing the syllabus and course schedule for the semester. I always offer differing completion options, and I **account for the student's interests** in developing course content and assignments for the semester. I value **evaluation of my teaching**, as well as providing formative, learner-centered feedback to my students in order to tailor the course, and the student experiences to better serve my students. 
+
+![Facilitating a discussion around integrating women in vector control activities in Bali, Indonesia 2019](images/Teaching%20in%20Bali-01.jpg){fig-alt="Erika holding a poster board in a conference room while she facilitates a discussion around integrating women in vector control in Bali, Indonesia in 2019" fig-align="center"}
+
+## Explore some of my teaching artifacts below!
+
+[**Observation Letter from my Colleague, Lindsay Hansen**](https://drive.google.com/open?id=1yN9P3pu4KJj497OLtOD-dYuBq5CXFslPtf0ixO5dFKU&authuser=0) This letter discusses my effectiveness after teaching about relational database designs to a cohort of graduate students.
+
+In [**this paper published in Pedagogy in Health Promotion**](https://journals.sagepub.com/doi/abs/10.1177/2373379917700440) we highlight the importance of experiential exercises in public health courses and provide resources for conducting this exercise in your own classroom. I enjoy being a reviewer for this journal to keep apprised on new teaching methodologies.
+
+As a student, I always enjoyed discussions where we could work together to create something while we talked. Now as a teacher, I implement this practice in my teaching often through various techniques. In this [**Google JamBoard activity**](https://jamboard.google.com/d/1WSYUx_Y90R4dXHsrc_qllSMoFp57mFi39PExGGPfwvA/viewer?pli=1&f=4) students begin to think about how climate change impacts human health and possible exposure pathways.
+
+I enjoy receiving student feedback to help improve and support my teaching practice. After teaching a table-top outbreak activity, I had students [**share their experiences**](https://docs.google.com/document/d/1PuayGLETznCACkAzZAGC2Out3ijvR5-2-2Unr1ki-wA/edit#heading=h.614qao8pz4ef) to help evaluate and improve the activity for next time.
+
+## Continuous Learning
+
+There is always something new to learn! I seek out professional development activities to make my science, and my teaching better. I focus my learning on **data science skills** to support public health and graduate students in better **public health data governance**.
+
+In 2022 I was a Roots for Resilience research fellow. This program is led by the [**Arizona Institute for Resilience (AIR)**](https://air.arizona.edu/)[**Cyverse**](https://www.cyverse.org/), and the [**Data Science Institute**](https://datascience.arizona.edu/) at the University of Arizona. This program trains select graduate students in the use of open science and computational infrastructure to apply data science tools to their dissertation research.
+
+In 2021, I completed the [**CSTE Data Science Team Training**](https://www.cste.org/page/dstt-webpage) along with colleagues at the Pima County Health Department. We worked together on strengthening data sharing capacity with our academic health department.
