@@ -14,7 +14,10 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
+    linkcolor: $oc-orange-8
     css: styles.css
     toc: true
 
