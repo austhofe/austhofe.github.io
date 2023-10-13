@@ -2,11 +2,11 @@ project:
   type: website
   output-dir: docs
 
-website:
+website: 
   title: "Erika Austhof"
   navbar:
     left:
-      - href: home.qmd
+      - href: index.qmd
       - research.qmd
       - teaching.qmd
       - consulting.qmd
