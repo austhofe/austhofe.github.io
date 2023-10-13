@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 <br>
-test
+
 ::: columns
 ::: {.column width="30%"}
 ![](./images/Headshot_round.png)
