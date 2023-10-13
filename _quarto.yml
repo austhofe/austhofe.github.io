@@ -6,7 +6,6 @@ website:
   navbar:
     left:
       - href: home.qmd
-        text: Home
       - research.qmd
       - teaching.qmd
       - consulting.qmd
@@ -14,8 +13,7 @@ website:
 
 format:
   html:
-    theme:
-      light: flatly
+    theme: sandstone
     css: styles.css
     toc: true
 

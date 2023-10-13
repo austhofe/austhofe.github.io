@@ -2,6 +2,54 @@
 title: "Home"
 ---
 
-# Biography
+<br>
 
-Erika Austhof, PhD MPH, is an Epidemiologist at the University of Arizona Mel and Enid Zuckerman College of Public Health. She coordinates the epidemiology research projects for faculty members within the Department of Epidemiology & Biostatistics. In this role she conducts advanced data management and analysis, writes and submits reports and manuscripts, coordinates and facilitates stakeholder involvement in projects, trains and manages personnel in the SAFER program, and supports the efforts of new project development and grant writing. She is actively involved in the Climate Assessment for the Southwest (CLIMAS) network and her research interests include climate change and human health impacts.
+::: columns
+::: {.column width="30%"}
+![](./images/Headshot_round.png)
+:::
+
+::: {.column width="5%"}
+<br>
+:::
+
+::: {.column width="65%"}
+Erika Austhof is currently a Senior Epidemiologist at the University of Arizona Mel and Enid Zuckerman College of Public Health. She studies the effect of weather and climate change on infectious diseases, and the long-term gastrointestinal effects of COVID-19. She learned to code while working on her dissertation exploring the association between weather and *Campylobacter* and *Salmonella* infections in the US Southwest. Erika is passionate about data science and improving data governance in public health.
+:::
+:::
+
+
+
+
+::: columns
+::: {.column width="30%"}
+### **Erika Austhof**
+#### Sr. Epidemiologist [University of Arizona](https://publichealth.arizona.edu/departments/epi-bio)
+<br>
+[![](./images/scholar.png){width=15%}](https://scholar.google.com/citations?user=s8k_vCsAAAAJ&hl=en)
+[![](./images/github.png){width=15%}](https://github.com/austhofe)
+[![](./images/linkedin.png){width=15%}](https://www.linkedin.com/in/epierika/)
+:::
+
+::: {.column width="5%"}
+<br>
+:::
+
+::: {.column width="30%"}
+### Interests
+-   Epidemiology
+-   Climate change & health
+-   Data science
+:::
+
+::: {.column width="5%"}
+<br>
+:::
+
+::: {.column width="30%"}
+### Education
+-   PhD Epidemiology, Minor in Management Information Systems, 2023
+-   MPH Epidemiology, 2015
+-   BS Microbiology, 2012
+:::
+:::
