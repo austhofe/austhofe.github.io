@@ -1,3 +1,23 @@
 ---
 title: "Research"
 ---
+
+# Research Interests
+
+My research focuses on the intersection of climate change and health. I focus on epidemiological study design and data science approaches in my research which has allowed me to explore a variety of climate change health outcomes and infectious diseases and their long term health outcomes.
+
+# Current Work
+
+-   Exploring transmission of pathogens from cattle feedlots to adjacent lands
+
+-   Gastrointestinal symptoms and health outcomes of COVID-19 (NIH NIDDK R01, co-I)
+
+-   Cardiovascular health outcomes of wildfire (CLIMAS)
+
+-   Supporting health departments respond to the health effects of climate change (BRACE, CDC)
+
+## Thinking about...
+
+-   How are migratory birds involved in transmission dynamics of foodborne pathogens?
+
+-   Do regenerative agriculture practices support soil health, and reduce pathogen transmission?

@@ -14,7 +14,7 @@ title: "Home"
 :::
 
 ::: {.column width="65%"}
-Erika Austhof is currently a Senior Epidemiologist at the University of Arizona Mel and Enid Zuckerman College of Public Health. She studies the effect of weather and climate change on infectious diseases, and the long-term gastrointestinal effects of COVID-19. She learned to code while working on her dissertation exploring the association between weather and *Campylobacter* and *Salmonella* infections in the US Southwest. Erika is passionate about data science and improving data governance in public health.
+Erika Austhof is currently an Assistant Research Professor at the University of Arizona Mel and Enid Zuckerman College of Public Health, Department of Epidemiology & Biostatistics. She studies the effect of weather and climate change on infectious diseases, and the long-term gastrointestinal effects of COVID-19. She first learned to code in HTML to update her MySpace page, and now codes everyday in R and Stata. She learned the power of data science while working on her dissertation exploring the association between weather and *Campylobacter* and *Salmonella* infections in the US Southwest. Erika is passionate about data science and improving data governance in public health.
 :::
 :::
 
@@ -24,7 +24,8 @@ Erika Austhof is currently a Senior Epidemiologist at the University of Arizona 
 ::: columns
 ::: {.column width="30%"}
 ### **Erika Austhof**
-#### Sr. Epidemiologist [University of Arizona](https://publichealth.arizona.edu/departments/epi-bio)
+#### Assistant Research Professor
+##### [University of Arizona](https://publichealth.arizona.edu/directory/erika-austhof)
 <br>
 [![](./images/scholar.png){width=15%}](https://scholar.google.com/citations?user=s8k_vCsAAAAJ&hl=en)
 [![](./images/github.png){width=15%}](https://github.com/austhofe)

@@ -1,3 +1,9 @@
 ---
 title: "Consulting"
 ---
+
+I help public health organizations leverage the power of data science in their work. I have been a consultant for the Council of State and Territorial Epidemiologists (CSTE), the Association of State and Territorial Health Officials (ASTHO) in collaboration with the Centers for Disease Control and Prevention (CDC), the Colorado School of Public Health, Public Health Partners, and numerous students and epidemiologists at public health organizations internationally. Some of the projects I've completed in the past include: developing syndromic surveillance definitions in NSSP, key informant interviews, updating resources and guidance documents with data science approaches, stakeholder engagement, and scientific writing.
+
+I am the Principal Consultant and Founder for Aengle Consulting LLC (named after the Agent Environment host epidemiology triaNGLE, pronounced like "angle"). For consultant inquires, please email: erika\@aengleconsulting.com and learn more about Aengle [here](https://aengleconsulting.com/).
+
+[![](images/Aengle%20Logos_Icon-%20Black.png){fig-alt="black and white logo for business" fig-align="right" width="300"}](https://aengleconsulting.com/)
