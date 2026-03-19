@@ -8,9 +8,11 @@ My research focuses on the intersection of climate change and health. I focus on
 
 # Current Work
 
--   Exploring transmission dynamics of *Salmonella* through shotgun metagenomics and whole genome sequencing (UAHS Careeer Development Award 2025-2027)
+-   Exploring transmission dynamics of *Salmonella* through shotgun metagenomics and whole genome sequencing (UAHS Careeer Development Award 2025-2027, PI)
 
--   Exploring transmission of pathogens from cattle feedlots to adjacent lands (Center for Produce Safety 2025-2027 grant)
+-   Exploring transmission of pathogens from cattle feedlots to adjacent lands (Center for Produce Safety 2025-2027 grant, co-PI)
+
+-   Produce safety risks following application of Biological Soil Amendments of Animal Origin (BSAAOs) (Center for Produce Safety 2026-2028 Grant, co-PI)
 
 -   Gastrointestinal symptoms and health outcomes of COVID-19 (NIH NIDDK R01, co-I)
 

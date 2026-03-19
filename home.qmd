@@ -4,7 +4,7 @@ title: "Home"
 
 <br>
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
 ![](./images/Headshot_round.png)
 :::
@@ -14,21 +14,17 @@ title: "Home"
 :::
 
 ::: {.column width="65%"}
-Erika Austhof is currently a Senior Epidemiologist at the University of Arizona Mel and Enid Zuckerman College of Public Health. She studies the effect of weather and climate change on infectious diseases, and the long-term gastrointestinal effects of COVID-19. She learned to code while working on her dissertation exploring the association between weather and *Campylobacter* and *Salmonella* infections in the US Southwest. Erika is passionate about data science and improving data governance in public health.
+Erika Austhof is currently an Assistant Research Professor at the University of Arizona Mel and Enid Zuckerman College of Public Health. She studies the effect of weather and climate change on infectious diseases, and the long-term gastrointestinal effects of COVID-19. She first learned to code editing her MySpace HTML as a teenager. Now she uses data science every day in her work, exploring the association between extreme weather events and food-and water-borne infections. Erika is passionate about One Health, data science, adapting to and mitigating the health effects of climate change, and supporting public health stakeholders through research.
 :::
-:::
+::::::
 
-
-
-
-::: columns
+:::::::: columns
 ::: {.column width="30%"}
 ### **Erika Austhof**
-#### Sr. Epidemiologist [University of Arizona](https://publichealth.arizona.edu/departments/epi-bio)
-<br>
-[![](./images/scholar.png){width=15%}](https://scholar.google.com/citations?user=s8k_vCsAAAAJ&hl=en)
-[![](./images/github.png){width=15%}](https://github.com/austhofe)
-[![](./images/linkedin.png){width=15%}](https://www.linkedin.com/in/epierika/)
+
+#### Assistant Research Professor [University of Arizona](https://publichealth.arizona.edu/departments/epi-bio)
+
+<br> [![](./images/scholar.png){width="15%"}](https://scholar.google.com/citations?user=s8k_vCsAAAAJ&hl=en) [![](./images/github.png){width="15%"}](https://github.com/austhofe) [![](./images/linkedin.png){width="15%"}](https://www.linkedin.com/in/epierika/)
 :::
 
 ::: {.column width="5%"}
@@ -37,6 +33,7 @@ Erika Austhof is currently a Senior Epidemiologist at the University of Arizona 
 
 ::: {.column width="30%"}
 ### Interests
+
 -   Epidemiology
 -   Climate change & health
 -   Data science
@@ -48,8 +45,9 @@ Erika Austhof is currently a Senior Epidemiologist at the University of Arizona 
 
 ::: {.column width="30%"}
 ### Education
+
 -   PhD Epidemiology, Minor in Management Information Systems, 2023
 -   MPH Epidemiology, 2015
 -   BS Microbiology, 2012
 :::
-:::
+::::::::
