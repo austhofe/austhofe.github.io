@@ -10,17 +10,17 @@ In my teaching, I value student learning and engagement through **skills-based l
 
 ## Courses Taught
 
--   Spring 2025 - Basics of Epidemiology, University of Arizona \[15 weeks, online\]
+- Spring 2025 - Basics of Epidemiology, University of Arizona \[15 weeks, online\]
 
--   Fall 2024 - One Health Foundations, University of Arizona \[7 week course, asynchronous online\]
+- Fall 2024 - One Health Foundations, University of Arizona \[7 week course, asynchronous online\]
 
--   Spring 2024 - Infectious Disease Epidemiology, One Health, University of Arizona \[Guest Lecturer\]
+- Spring 2024 - Infectious Disease Epidemiology, One Health, University of Arizona \[Guest Lecturer\]
 
--   Fall 2023 - Infectious Disease Epidemiology, University of the West Indies, Kingston, Jamiaca \[1 week intensive course, in-person\]
+- Fall 2023 - Infectious Disease Epidemiology, University of the West Indies, Kingston, Jamiaca \[1 week intensive course, in-person\]
 
--   Spring 2016-Fall 2020 - Student Aid for Field Epidemiology Response, University of Arizona \[Co-Instructor\]
+- Spring 2016-Fall 2020 - Student Aid for Field Epidemiology Response, University of Arizona \[Co-Instructor\]
 
--   Spring 2016 - Basic Epidemiology, Arizona School of Acupuncture and Oriental Medicine
+- Spring 2016 - Basic Epidemiology, Arizona School of Acupuncture and Oriental Medicine
 
 ## Explore some of my teaching artifacts below!
 
@@ -35,6 +35,10 @@ I enjoy receiving student feedback to help improve and support my teaching pract
 ## Continuous Learning
 
 There is always something new to learn! I seek out professional development activities to make my science, and my teaching better. I focus my learning on **data science skills** to support public health and graduate students in better **public health data governance**.
+
+In 2026 I participated in the Faculty Success Program with [**NCFDD**](https://www.ncfdd.org/programs/faculty-success-program/). This structured 10-week program helps faculty find the skills the need to be productive, establish a consistent writing practice, and create work-life balance.
+
+In 2024 I complete a Data and AI Intensive Research with Rigor and Reproducibility (DAIR3) with the [**University of Michigan**](https://midas.umich.edu/training/dair-3/). This weeklong bootcamp over the summer focuses on ethical issues in biomedical data science, data management, representation, and sharing, analytical design and reporting of AI models, reproducible workflows, and generative AI.
 
 In 2022 I was a Roots for Resilience research fellow. This program is led by the [**Arizona Institute for Resilience (AIR)**](https://air.arizona.edu/)[**Cyverse**](https://www.cyverse.org/), and the [**Data Science Institute**](https://datascience.arizona.edu/) at the University of Arizona. This program trains select graduate students in the use of open science and computational infrastructure to apply data science tools to their dissertation research.
 

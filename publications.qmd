@@ -50,7 +50,7 @@ title: "Publications"
 
 **White Papers**
 
-1.  Nilz M, **Austhof** E, Chester KG, Levy J, Cree R, Wray A, Holbrook J, Cheng Q, Zhang Q, Rice CE, Tang E, Hoferka S, Borroto R, Gonzalez S, Schultz A, Ekong P, Radhakrishnan L, Stein Z, Evans A. Overall Disability (v1) Definition Fact Sheet & Technical Brief. National Syndromic Surveillance Program Knowledge Repository. August 1, 2025.
+1.  Nilz M, **Austhof** E, Chester KG, Levy J, Cree R, Wray A, Holbrook J, Cheng Q, Zhang Q, Rice CE, Tang E, Hoferka S, Borroto R, Gonzalez S, Schultz A, Ekong P, Radhakrishnan L, Stein Z, Evans A. [Overall Disability (v1) Definition Fact Sheet & Technical Brief](https://knowledgerepository.syndromicsurveillance.org/overall-disability-v1-0). National Syndromic Surveillance Program Knowledge Repository. August 1, 2025.
 
 2.  Nilz M, **Austhof** E, Chester KG, Levy J, Cree R, Wray A, Holbrook J, Cheng Q, Zhang Q, Rice CE, Ekong P, Radhakrishnan L, Stein Z, Evans A. [Cognition and Central Nervous System Disability (v1) Definition Fact Sheet & Technical Brief.](https://knowledgerepository.syndromicsurveillance.org/cognition-and-central-nervous-system-disability-v1) August 1, 2025.
 

@@ -36,10 +36,10 @@ Erika Austhof is currently an Assistant Research Professor at the University of 
 ::: {.column width="30%"}
 ### Interests
 
--   Epidemiology
--   Infectious diseases
--   Climate change & health
--   Data science
+- Epidemiology
+- Infectious diseases
+- Climate change & health
+- Data science
 :::
 
 ::: {.column width="5%"}
@@ -49,9 +49,9 @@ Erika Austhof is currently an Assistant Research Professor at the University of 
 ::: {.column width="30%"}
 ### Education
 
--   PhD Epidemiology, Minor in Management Information Systems, 2023
--   MPH Epidemiology, 2015
--   BS Microbiology, 2012
+- PhD Epidemiology, Minor in Management Information Systems, 2023
+- MPH Epidemiology, 2015
+- BS Microbiology, 2012
 :::
 ::::::::
 
