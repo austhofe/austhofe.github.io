@@ -7,3 +7,5 @@
 /_site/
 website-update-code.R
 website-update-code.R
+
+**/*.quarto_ipynb

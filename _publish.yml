@@ -1,0 +1,4 @@
+- source: project
+  posit-connect-cloud:
+    - id: 01a1f9b3-2b4a-ee97-59bb-5dad9277b0cb
+      url: https://connect.posit.cloud/austhofe/content/01a1f9b3-2b4a-ee97-59bb-5dad9277b0cb
